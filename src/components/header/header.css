@@ -1,0 +1,15 @@
+.app-header {
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  background-color: black;
+  box-shadow: 0 0px 6px 4px darkgrey;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  position: fixed;
+  width: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6rem;
+}
