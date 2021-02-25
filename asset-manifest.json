@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rentomojo-task/static/css/main.f3f5667c.chunk.css",
-    "main.js": "/rentomojo-task/static/js/main.b169f03f.chunk.js",
-    "main.js.map": "/rentomojo-task/static/js/main.b169f03f.chunk.js.map",
+    "main.js": "/rentomojo-task/static/js/main.93c18d0d.chunk.js",
+    "main.js.map": "/rentomojo-task/static/js/main.93c18d0d.chunk.js.map",
     "runtime-main.js": "/rentomojo-task/static/js/runtime-main.57d3d97c.js",
     "runtime-main.js.map": "/rentomojo-task/static/js/runtime-main.57d3d97c.js.map",
     "static/js/2.1f1939d2.chunk.js": "/rentomojo-task/static/js/2.1f1939d2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.57d3d97c.js",
     "static/js/2.1f1939d2.chunk.js",
     "static/css/main.f3f5667c.chunk.css",
-    "static/js/main.b169f03f.chunk.js"
+    "static/js/main.93c18d0d.chunk.js"
   ]
 }
