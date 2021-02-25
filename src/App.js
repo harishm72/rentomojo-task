@@ -8,7 +8,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/rentomojo-task">
       <Header />
       <AppRouter />
     </BrowserRouter>
