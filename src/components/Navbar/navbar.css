@@ -5,5 +5,5 @@
 }
 
 .navbar a {
-  color: white;
+  color: var(--bg-color);
 }
